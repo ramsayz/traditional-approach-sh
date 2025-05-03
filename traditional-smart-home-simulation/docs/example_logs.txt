@@ -1,0 +1,3 @@
+[Server] Motion received at 12:01:01
+[Server] Proximity received at 12:01:05
+[BLE Lock] Unlock Triggered at 12:01:06
